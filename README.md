@@ -2,9 +2,9 @@
 
 Replicates functionality of the needle of the balance.
 
-![Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/A.png "A")
-![Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/A.png "B")
-![Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/A.png "C")
+![A Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/A.png "A")
+![B Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/B.png "B")
+![C Screenshot](https://github.com/elpsk/Weight-arrow---Balance/raw/master/C.png "C")
 
 
 ## Example
